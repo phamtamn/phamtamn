@@ -3,8 +3,19 @@
 <head>
 <meta cherset="ulf-8">
 <title> Bài tập </title>
+<style>
+h1{
+background-color: (#808080)
+}
+</style>
 </head>
 <body>
-
+<div>
+<h1>Khoa Công Nghệ Và Kỹ Thuật</h1>
+</div>
+<div>
+<p>kadblkbauid kiadblakbdka kjdbalkdjbaujsgb aodh;akbsdjogdlfbuigg àgdbakjfg kbda,bdau 
+</p>
+</div>
 </body>
 </html>
